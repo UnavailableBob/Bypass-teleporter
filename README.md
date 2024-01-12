@@ -1,8 +1,12 @@
 # Bypass-teleporter
-# How to use
+# Important Things
+This is a level 1-3 executor so it cant execute loadstrings and alot of other scripts
+---------------------------------------------------------------------------------------------------------
+# How to make
 1. Open the file
 2. Publish to Roblox
-3. Go to game settings > security turn on "allow third party teleports"
+3. Go to game settings > security turn on "allow third party teleports" and save changes
+   
 
 # How to play (*GAME YOUR EXPLOITING ON MUST HAVE TOOLS*)
 1. Play the game
