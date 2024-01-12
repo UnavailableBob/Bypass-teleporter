@@ -4,7 +4,7 @@
 2. Publish to Roblox
 3. Go to game settings > security turn on "allow third party teleports"
 
-# How to play *GAME YOUR EXPLOITING ON MUST HAVE TOOLS*
+# How to play (*GAME YOUR EXPLOITING ON MUST HAVE TOOLS*)
 1. Play the game
 2. Choose the game you want to play(Click on the buttons)
 3. Click Join
